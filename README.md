@@ -9,8 +9,16 @@
 ## Vagrant
 
 ```
+vagrant box
+vagrant box list
+vagrant box add matthias_reissner/ubuntu18_docker
+
+vagrant 
+vagrant status
+vagrant init
 vagrant up
 vagrant ssh
+vagrant halt
 
 ```
 
